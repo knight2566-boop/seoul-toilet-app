@@ -1,0 +1,16 @@
+node_modules/
+dist/
+target/
+*.jar
+*.log
+*.log.err
+.DS_Store
+Thumbs.db
+.env
+backend.env
+backend/.env
+frontend/.env
+frontend/node_modules/
+backend/target/
+backend/server.log
+backend/server.err
